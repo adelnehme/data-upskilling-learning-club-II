@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/adelnehme/data-upskilling-learning-club/blob/master/assets/datacamp_amazon.png?raw=true" alt = "DataCamp Amazon icon" width="65%">
+<img src="https://github.com/adelnehme/data-upskilling-learning-club-II/blob/master/assets/datacamp_amazon.png?raw=true" alt = "DataCamp Amazon icon" width="65%">
 </p>
 
 
