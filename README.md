@@ -15,7 +15,12 @@
 
 ### **The Dataset**
 
-The dataset to be used in this webinar is a CSV file named `airbnb.csv`, which contains data on airbnb listings in the state of New York. It contains the following columns:
+The dataset to be used in this webinar is a XLSX file named `sales_performance.xlsx`, which contains 4 sheets:
+<br>
+
+<p align="center">
+<img src="https://github.com/adelnehme/data-upskilling-learning-club-II/blob/master/assets/dataset.png?raw=true" alt = "Datasets" width="100%">
+</p>
 
 
 
